@@ -5,6 +5,6 @@ Count page load time by selenium and phantomjs.
     * pip install selenium
 2. phantomJS
     * See detail at [http://phantomjs.org/](http://phantomjs.org/)
-# Useage
+# Usage
 python load_speed_test.py [input_file] [output_file]
 
